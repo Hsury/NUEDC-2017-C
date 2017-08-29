@@ -2,8 +2,8 @@
 **NUEDC** is short for **National Undergraduate Electronic Design Contest(全国大学生电子设计竞赛)**.
 
 ### Rule
-NUEDC 2017, Problem C: [PDF document](ftp://ftp.nuedc.com.cn/2017/exams/%CB%C4%D0%FD%D2%ED%D7%D4%D6%F7%B7%C9%D0%D0%C6%F7%CC%BD%B2%E2%B8%FA%D7%D9%CF%B5%CD%B3%A3%A8C%CC%E2%A3%A9.pdf)
-You can also go to [the official FTP site](ftp://ftp.nuedc.com.cn/) for rules of other problems or information in early years.
+NUEDC 2017, Problem C: [PDF document](http://tinyurl.com/ydgn47fy)</br>
+You can also go to [the official FTP site](http://tinyurl.com/yavwnahk) for rules of other problems and information in the early years.
 
 ### Hardware
 - Raspberry Pi 3B
