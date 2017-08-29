@@ -1,4 +1,4 @@
-# NUEDC-2017
+# NUEDC-2017-C
 **NUEDC** is short for **National Undergraduate Electronic Design Contest(全国大学生电子设计竞赛)**.
 
 ### Rule
