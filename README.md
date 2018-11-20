@@ -1,9 +1,9 @@
 # NUEDC-2017-C
-**NUEDC** is short for **National Undergraduate Electronic Design Contest(全国大学生电子设计竞赛)**.
+**NUEDC** is the abbreviation for **National Undergraduate Electronic Design Contest(全国大学生电子设计竞赛)**.
 
 ### Rule
-NUEDC 2017, Problem C: [PDF document](http://tinyurl.com/ydgn47fy)</br>
-You can also go to [the official FTP site](http://tinyurl.com/yavwnahk) for rules of other problems and information in the early years.
+NUEDC 2017, Problem C: [PDF document](https://www.renesas.com/about/china-university-program/nuedc/2017/component-list/question-c.pdf)</br>
+You can also go to [Renesas university program of NUEDC](https://www.renesas.com/cn/zh/about/university-program/nuedc.html) for rules of other problems and information in the early years.
 
 ### Hardware
 - Raspberry Pi 3B
